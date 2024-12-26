@@ -1,5 +1,5 @@
 import java.util.Scanner ; 
-public class Daramola_J2C
+public class Daniel_J2C
 {
    public static void main(String [] args)
    {
